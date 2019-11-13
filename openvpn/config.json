@@ -6,6 +6,12 @@
   ],
   "host_network": true,
   "name": "OpenVPN",
+  "arch": [
+    "aarch64",
+    "amd64",
+    "armhf",
+    "i386"
+  ],
   "options": {
     "config": ""
   },
